@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi stranger 
+Hi 
 ---
 
 Hello! I am Sergey
