@@ -32,12 +32,12 @@ Hello! I am Sergey
     src="https://raw.githubusercontent.com/hille2/hille2/43276b1ca139000ea25533df2c50f03f39d60bd0/icon/cplusplus.svg"/>
   </a>
    
-  <a href="https://github.com/hille2?tab=repositories&q=&type=&language=python&sort=">
+<!--   <a href="https://github.com/hille2?tab=repositories&q=&type=&language=python&sort=">
     <img alt="python" 
     width="40"
     height="40" 
     src="https://raw.githubusercontent.com/hille2/hille2/43276b1ca139000ea25533df2c50f03f39d60bd0/icon/python.svg"/>
-  </a>
+  </a> -->
 </p>
 
 ---
